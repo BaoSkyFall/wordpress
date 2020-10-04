@@ -1,0 +1,78 @@
+# Copyright (C) 2020 rey-module-preloaders
+# This file is distributed under the same license as the rey-module-preloaders package.
+msgid ""
+msgstr ""
+"Project-Id-Version: rey-module-preloaders\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: rey-module-preloaders\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Preloader Type"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Spinner #1 (Classic Circle Spinner)"
+msgstr ""
+
+msgid "Spinner #2 (Circle Spinners)"
+msgstr ""
+
+msgid "Spinner #3 (Comic spinner)"
+msgstr ""
+
+msgid "Spinner #4 (Flipping Box)"
+msgstr ""
+
+msgid "Spinner #5 (Vertical Bars)"
+msgstr ""
+
+msgid "Spinner #6 (Unfolding Cube)"
+msgstr ""
+
+msgid "Spinner #7 (Skewed Line)"
+msgstr ""
+
+msgid "Spinner #8 (Circle & image inside)"
+msgstr ""
+
+msgid "Text #1 (Blurry Text)"
+msgstr ""
+
+msgid "Text #2 (Sliding Letters)"
+msgstr ""
+
+msgid "Text #3 (Stamp)"
+msgstr ""
+
+msgid "Text #4 (Colored Gradient Text)"
+msgstr ""
+
+msgid "Image (Fade In Out)"
+msgstr ""
+
+msgid "Image (Gradient Fade)"
+msgstr ""
+
+msgid "Select Image"
+msgstr ""
+
+msgid "Image Size"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "LOADING"
+msgstr ""
+
+msgid "Text Typography"
+msgstr ""

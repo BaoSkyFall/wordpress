@@ -1,0 +1,35 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">rey-global-sections</custom-type>
+    </custom-types>
+    <admin-texts>
+        <key name="footer_copyright"/>
+        <key name="search_suggestions"/>
+        <key name="product_info_content"/>
+        <key name="header_account_text"/>
+        <key name="header_account_text_logged_in"/>
+        <key name="header_cart_text"/>
+        <key name="single_product_page_related_title"/>
+        <key name="single_product_price_text_custom"/>
+        <key name="estimated_delivery__prefix"/>
+        <key name="custom_price_range"/>
+        <key name="loop_featured_badge__text"/>
+        <key name="scroll_to_top__text"/>
+        <key name="header_cart__title"/>
+        <key name="header_search__input_placeholder"/>
+        <key name="product_page_gallery__btn__text"/>
+        <key name="cart_checkout_bar_text1_t"/>
+        <key name="cart_checkout_bar_text1_s"/>
+        <key name="cart_checkout_bar_text2_t"/>
+        <key name="cart_checkout_bar_text2_s"/>
+        <key name="cart_checkout_bar_text3_t"/>
+        <key name="cart_checkout_bar_text3_s"/>
+        <key name="wishlist__text"/>
+        <key name="wishlist__texts_add"/>
+        <key name="wishlist__texts_rm"/>
+        <key name="wishlist__texts_added"/>
+        <key name="wishlist__texts_btn"/>
+        <key name="cookie_notice__text"/>
+        <key name="cookie_notice__btn_text"/>
+    </admin-texts>
+</wpml-config>
